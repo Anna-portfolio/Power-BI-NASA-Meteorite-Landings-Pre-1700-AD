@@ -1,0 +1,23 @@
+name,id,country
+Castrovillari,5295,Italy
+Elbogen,7823,Czech Republic
+Ensisheim,10039,France
+Fünen,10838,Denmark
+Hatford,11855,United Kingdom
+Jalandhar,12069,India
+Minamino,16692,Japan
+Mount Vaisi,16805,France
+Narni,16914,Italy
+Nogata,16988,Japan
+Novy-Ergi,17934,Russia
+Oliva-Gandia,18012,Spain
+Ortenau,18033,Germany
+Rivolta de Bassi,22614,Italy
+Sagan,22796,Poland
+Sasagase,23187,Japan
+Stolzenau,23726,Germany
+Stretchleigh,23732,United Kingdom
+Vago,24143,Italy
+Valdinoce,24146,Italy
+Campo del Cielo,5247,Argentina
+Morito,16745,Mexico
